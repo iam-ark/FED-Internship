@@ -1,0 +1,20 @@
+*{
+    color:rgb(237, 229, 220);
+}
+body{
+    background-image: url('background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+img{
+    border: 2px sandybrown solid;
+    /* margin-left: 550px; */
+    width: 400px;
+}
+.image{
+    width: 200px;
+    margin: 0 auto;
+}
+.git{
+    font-size: larger;
+}
